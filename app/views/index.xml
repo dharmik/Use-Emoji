@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container" id='main'>
+		<Label id='labelEmoji'> </Label>
+	</Window>
+</Alloy>
